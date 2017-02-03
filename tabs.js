@@ -19,5 +19,9 @@ document.addEventListener("click", function(e) {
     browser.tabs.create({url: "http://dictionary.cambridge.org/pt/"});
   }
 
+  else if (e.target.id === "tabs-web-localization-dashboard") {
+    browser.tabs.create({url: "https://l10n.mozilla-community.org/webdashboard/?locale=pt-BR"});
+  }
+
   e.preventDefault();
 });
