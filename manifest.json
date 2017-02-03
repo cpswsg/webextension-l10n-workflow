@@ -1,0 +1,22 @@
+{
+	"manifest_version": 2,
+	"name": "L10n Workflow",
+	"description": "Uma maneira mais rápida de acessar os sites utilizados para localizar/traduzir os produtos e projetos da Mozilla para o Português do Brasil.",
+	"version": "1.0",
+	"homepage_url": "https://github.com/cynthiapereira/webextension-l10n-workflow",
+	"icons": {
+    	"32": "icons/logo.svg"
+  	},
+	"browser_action": {
+		"browser_style": true,
+		"default_title": "L10n Workflow",
+		"default_popup": "tabs.html",
+		"default_icon": {
+			"16": "icons/logo.svg"
+		}
+	},
+	"permissions": [
+		"tabs"
+	],
+	"author": "Cynthia Pereira"
+}

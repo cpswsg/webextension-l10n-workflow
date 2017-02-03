@@ -1,0 +1,35 @@
+html, body {
+	background-color: #272a2f;
+	min-width: 220px;
+}
+
+.panel {
+	margin-bottom: 10px;
+}
+.panel .panel-section-header .icon-section-header {
+  background-image: url(icons/flag-brazil-32x32.png);
+  background-position: 50%;
+  background-repeat: no-repeat;
+	width: 32px;
+  height: 32px;
+}
+.panel .panel-section-header .text-section-header {
+	color: #ebebeb;
+}
+
+.panel .panel-section-body .panel-list-item:hover {
+	background-color: #3f4752;
+}
+.panel .panel-section-body a {
+	text-decoration: none;
+	display: inline-block;
+}
+.panel .panel-section-body a.default {
+	color: #7bc876;
+}
+.panel .panel-section-body a.glossary {
+	color: #4fc4f6;
+}
+.panel .panel-section-body a.dictionary {
+	color: #fed271; 
+}
