@@ -16,7 +16,7 @@ Este repositório está disponível sob a licença [Mozilla Public License Versi
 
 ### Como usar esta WebExtension permanentemente
 
-Instale esta extensão por meio do site [addons.mozilla.org](https://addons.mozilla.org/l10n-workflow/).
+Instale esta extensão por meio do site [addons.mozilla.org](https://addons.mozilla.org/pt-BR/firefox/addon/l10n-workflow/).
 
 ### Como contribuir
 
