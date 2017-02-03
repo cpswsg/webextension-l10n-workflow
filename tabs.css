@@ -34,6 +34,7 @@ html, body {
 	color: #fed271; 
 }
 
-.panel .panel-section-body a.dashboard {
-	color: white;
+.panel .panel-section-body a.github {
+	color: #17caae;
+	font-size: small;
 }

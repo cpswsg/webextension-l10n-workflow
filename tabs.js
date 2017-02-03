@@ -23,5 +23,9 @@ document.addEventListener("click", function(e) {
     browser.tabs.create({url: "https://l10n.mozilla-community.org/webdashboard/?locale=pt-BR"});
   }
 
+  else if (e.target.id === "tabs-github") {
+    browser.tabs.create({url: "https://github.com/cynthiapereira/webextension-l10n-workflow"});
+  }
+
   e.preventDefault();
 });
