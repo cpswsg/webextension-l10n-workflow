@@ -33,3 +33,7 @@ html, body {
 .panel .panel-section-body a.dictionary {
 	color: #fed271; 
 }
+
+.panel .panel-section-body a.dashboard {
+	color: white;
+}
