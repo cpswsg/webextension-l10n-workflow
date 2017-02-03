@@ -37,3 +37,10 @@ html, body {
 .panel .panel-section-body a.github {
 	color: #17caae;
 }
+
+.item_icon {
+	margin-right: 10px;
+	height: 16px;
+	width: 16px;
+	vertical-align: middle;
+}
