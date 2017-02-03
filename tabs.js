@@ -15,6 +15,10 @@ document.addEventListener("click", function(e) {
     browser.tabs.create({url: "https://wiki.mozilla.org/Brasil/L10n/Glossario"});
   }
 
+  else if (e.target.id === "tabs-guia-estilos") {
+    browser.tabs.create({url: "https://wiki.mozilla.org/L10n:Teams:pt-BR/Style_Guide"});
+  }
+
   else if (e.target.id === "tabs-cambridge") {
     browser.tabs.create({url: "http://dictionary.cambridge.org/pt/"});
   }
