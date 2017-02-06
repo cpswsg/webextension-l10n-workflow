@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "L10n Workflow",
 	"description": "Uma maneira mais rápida de acessar os sites utilizados para localizar/traduzir os produtos e projetos da Mozilla para o Português do Brasil.",
-	"version": "1.0",
+	"version": "1.1.0",
 	"homepage_url": "https://github.com/cynthiapereira/webextension-l10n-workflow",
 	"icons": {
     	"32": "icons/flag-brazil-32x32.png"
