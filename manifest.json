@@ -5,14 +5,14 @@
 	"version": "1.0",
 	"homepage_url": "https://github.com/cynthiapereira/webextension-l10n-workflow",
 	"icons": {
-    	"32": "icons/logo.svg"
+    	"32": "icons/flag-brazil-32x32.png"
   	},
 	"browser_action": {
 		"browser_style": true,
 		"default_title": "L10n Workflow",
 		"default_popup": "tabs.html",
 		"default_icon": {
-			"16": "icons/logo.svg"
+			"16": "icons/flag-brazil-32x32.png"
 		}
 	},
 	"permissions": [
