@@ -15,8 +15,13 @@
 			"16": "icons/flag-brazil-32x32.png"
 		}
 	},
+	"options_ui": {
+		"page": "options.html",
+		"browser_style": true
+	},
 	"permissions": [
-		"tabs"
+		"tabs",
+		"storage"
 	],
 	"author": "Cynthia Pereira"
 }
