@@ -14,3 +14,7 @@ localeInput.addEventListener('change', function(e) {
   options[localeOptionKey] = e.target.value;
   browser.storage.local.set(options);
 });
+
+for (const element of document.querySelectorAll('[data-l10n-id]')) {
+  element.textContent = chrome.i18n.getMessage(element.dataset.l10nId);
+}
