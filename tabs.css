@@ -17,6 +17,10 @@ html, body {
 	color: #ebebeb;
 }
 
+.panel .panel-section-body .panel-list-item {
+  cursor: pointer;
+}
+
 .panel .panel-section-body .panel-list-item:hover {
 	background-color: #3f4752;
 }
