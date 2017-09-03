@@ -19,7 +19,7 @@
 		"page": "options.html",
 		"browser_style": true
 	},
-	"default_locale": "pt_BR",
+	"default_locale": "en",
 	"permissions": [
 		"tabs",
 		"storage"
