@@ -8,7 +8,7 @@ browser.storage.local.get(localeOptionKey).then(function(item) {
     locale = 'pt-BR';
   }
   if (locale != 'pt-BR') {
-    document.getElementById('tabs-glossario').parentElement.style.display = 'none';
+    document.getElementById('tabs-glossary').parentElement.style.display = 'none';
   }
 });
 
