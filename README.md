@@ -1,29 +1,29 @@
 ## L10n Workflow - WebExtension
 
-Esta WebExtension é uma maneira mais rápida de acessar os sites utilizados para localizar/traduzir os produtos e projetos da Mozilla para o Português do Brasil. Basta clicar no ícone e seu fluxo de trabalho estará pronto!
+This WebExtension is a fast way to access websites used to localize / translate Mozilla products and projects. Just click on the icon and your workflow will be ready!
 
-Este repositório está disponível sob a licença [Mozilla Public License Version 2.0](LICENSE)
+It's licensed under [Mozilla Public License Version 2.0](LICENSE)
 
-### Como testar esta WebExtension
+### How to test this extension
 
-1. Clone este repositório `git clone https://github.com/cynthiapereira/webextension-l10n-workflow.git`
+1. Clone the repository `git clone https://github.com/cynthiapereira/webextension-l10n-workflow.git`
 
-1. Na barra de endereços do Firefox digite `about:debugging`
+1. Type `about:debugging` into the Firefox address bar.
 
-1. Clique em `Load Temporary Add-on`, uma janela de diálogo se abrirá.
+1. Click `Load Temporary Add-on` button, a dialog window will open.
 
-1. No repositório clonado, selecione o arquivo `manifest.json`. O ícone da WebExtension aparecerá na sua barra de ferramentas.
+1. Select `manifest.json` file in the cloned repository. The extension icon will appear on your toolbar.
 
-### Como usar esta WebExtension permanentemente
+### How to install this extension
 
-Instale esta extensão por meio do site [addons.mozilla.org](https://addons.mozilla.org/pt-BR/firefox/addon/l10n-workflow/).
+You can download and install this extension from the [Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/l10n-workflow/) server.
 
-### Como contribuir
+### How to contribute
 
-Possui uma sugestão, dúvida ou encontrou um erro? Por favor, abra uma nova [issue](https://github.com/cynthiapereira/webextension-l10n-workflow/issues/new).
+Have a suggestion, question or found an error? Please open a new [issue](https://github.com/cynthiapereira/webextension-l10n-workflow/issues/new).
 
-### Saiba mais
+### More info
 
-Para saber mais sobre o desenvolvimento de WebExtensions, veja a [esta documentação da Mozilla Developer Network](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) *(em inglês)*.
+To learn more about WebExtensions development, see [the documentation on Mozilla Developer Network](https://developer.mozilla.org/en-US/Add-ons/WebExtensions).
 
-Para saber mais sobre o time de localização/tradução de produtos e projetos da Mozilla no Brasil, leia [esta página da Wiki](https://wiki.mozilla.org/Brasil/L10n).
+To learn more about Mozilla products localization and translation, visit the [Mozilla Localization website](https://l10n.mozilla.org/).

@@ -1,0 +1,78 @@
+{
+  "extensionName": {
+    "message": "L10n Workflow"
+  },
+
+  "extensionDescription": {
+    "message": "Faster way to access the websites used to localize / translate Mozilla products and projects into your language."
+  },
+
+  "optionsLocaleLabel": {
+    "message": "Locale:"
+  },
+
+  "pontoonLinkText": {
+    "message": "Pontoon"
+  },
+
+  "pontoonLinkTooltip": {
+    "message": "Translation tools for Mozilla products and websites"
+  },
+
+  "pontoonTerminologyLinkText": {
+    "message": "Pontoon Terminology"
+  },
+
+  "pontoonTerminologyLinkTooltip": {
+    "message": "Search in Pontoon how an expression has been translated in other strings"
+  },
+
+  "transvisionLinkText": {
+    "message": "Transvision"
+  },
+
+  "transvisionLinkTooltip": {
+    "message": "Tool to search how other l10n teams have translated a string"
+  },
+
+  "glossaryLinkText": {
+    "message": "Glossary"
+  },
+
+  "glossaryLinkTooltip": {
+    "message": "Set of standard terms adopted in translations"
+  },
+
+  "styleGuideLinkText": {
+    "message": "Style Guide"
+  },
+
+  "styleGuideLinkTooltip": {
+    "message": "Guide containing best practices for localization adopted by the team"
+  },
+
+  "cambridgeLinkText": {
+    "message": "Cambridge Dictionary"
+  },
+
+  "cambridgeLinkTooltip": {
+    "message": "Reputed dictionary"
+  },
+
+  "webdashboardLinkText": {
+    "message": "Web Localization Dashboard"
+  },
+
+  "webdashboardLinkTooltip": {
+    "message": "Overview of Mozilla projects translation status"
+  },
+
+  "githubLinkText": {
+    "message": "Github"
+  },
+
+  "githubLinkTooltip": {
+    "message": "Fork me on Github!"
+  }
+}
+

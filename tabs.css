@@ -17,6 +17,10 @@ html, body {
 	color: #ebebeb;
 }
 
+.panel .panel-section-body .panel-list-item {
+  cursor: pointer;
+}
+
 .panel .panel-section-body .panel-list-item:hover {
 	background-color: #3f4752;
 }
@@ -24,17 +28,17 @@ html, body {
 	text-decoration: none;
 	display: inline-block;
 }
-.panel .panel-section-body a.default {
+.panel .panel-section-body .default {
 	color: #7bc876;
 }
-.panel .panel-section-body a.glossary {
+.panel .panel-section-body .glossary {
 	color: #4fc4f6;
 }
-.panel .panel-section-body a.dictionary {
+.panel .panel-section-body .dictionary {
 	color: #fed271; 
 }
 
-.panel .panel-section-body a.github {
+.panel .panel-section-body .github {
 	color: #17caae;
 }
 
